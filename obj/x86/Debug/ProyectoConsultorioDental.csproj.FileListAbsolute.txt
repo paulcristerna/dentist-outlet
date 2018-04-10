@@ -1,0 +1,133 @@
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\Ed Dorado\Documents\Visual Studio 2010\Projects\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Cristerna'sPC\Documents\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\Cristerna'sPC\Documents\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Cristerna'sPC\Documents\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\Cristerna'sPC\Documents\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Cristerna'sPC\Documents\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\Cristerna'sPC\Documents\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\Cristerna'sPC\Documents\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.csproj.GenerateResource.Cache
+C:\Users\Cristerna'sPC\Documents\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.csprojResolveAssemblyReference.cache
+F:\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+F:\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+I:\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+I:\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+I:\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+I:\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+I:\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\BD\FAUSTO\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+I:\BD\FAUSTO\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\BD\FAUSTO\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\BD\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe.config
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe.config
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.AccesoBaseDatos.resources
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\bin\Debug\ProyectoConsultorioDental.exe.config
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.AccesoBaseDatos.resources
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\bin\Debug\ProyectoConsultorioDental.exe.config
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.AccesoBaseDatos.resources
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HectorLaptop\Desktop\ProyectoConsultorioDental2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\bin\Debug\ProyectoConsultorioDental.exe.config
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\obj\x86\Debug\ProyectoConsultorioDental.csprojResolveAssemblyReference.cache
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\obj\x86\Debug\ProyectoConsultorioDental.AccesoBaseDatos.resources
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\obj\x86\Debug\ProyectoConsultorioDental.csproj.GenerateResource.Cache
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\paul\Desktop\ProyectoConsultorioDentalDelta\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\bin\Debug\ProyectoConsultorioDental.exe.config
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\obj\x86\Debug\ProyectoConsultorioDental.csprojResolveAssemblyReference.cache
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\obj\x86\Debug\ProyectoConsultorioDental.AccesoBaseDatos.resources
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\paul\Desktop\ProyectoConsultorioDentalGamma\ProyectoConsultorioDentalGamma\obj\x86\Debug\ProyectoConsultorioDental.csproj.GenerateResource.Cache
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe.config
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.AccesoBaseDatos.resources
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\HECTOR\Desktop\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+I:\HECTOR INZUNZA RUSSELL\PROYECTOS\PROYECTOS SISTEMAS\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe.config
+I:\HECTOR INZUNZA RUSSELL\PROYECTOS\PROYECTOS SISTEMAS\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+I:\HECTOR INZUNZA RUSSELL\PROYECTOS\PROYECTOS SISTEMAS\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe.config
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.exe
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.pdb
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.exe
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\bin\Debug\ProyectoConsultorioDental.pdb
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.AccesoBaseDatos.resources
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Form1.resources
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.Properties.Resources.resources
+C:\Users\admin\Desktop\PROYECTO CONSULTORIO DENTAL 2014\2\ProyectoConsultorioDental\obj\x86\Debug\ProyectoConsultorioDental.csproj.GenerateResource.Cache
